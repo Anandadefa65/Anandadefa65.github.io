@@ -1,0 +1,21 @@
+body {
+	background-image : url(image.jpg);
+	border-style: double;
+}
+h1 {
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	border-style: dotted;
+	margin: 5px 50px 75px 100px;
+	padding-top: 25px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+	padding-left: 80px;
+}
+h3 {
+	font-size: 30px;
+	text-align: left;
+	color: gray;
+	margin: 5px 50px 5px 30px;
+}
