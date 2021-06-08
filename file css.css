@@ -1,21 +1,25 @@
 body {
 	background-image : url(image.jpg);
 	border-style: double;
+	text-align: center;
 }
 h1 {
 	font-size: 30px;
-	text-align: center;
-	color: white;
+	color: black;
 	border-style: dotted;
-	margin: 5px 50px 75px 100px;
-	padding-top: 25px;
-	padding-right: 30px;
-	padding-bottom: 25px;
-	padding-left: 80px;
+	margin: 5px 5px 5px 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
 }
 h3 {
 	font-size: 30px;
-	text-align: left;
-	color: gray;
-	margin: 5px 50px 5px 30px;
+	color: black;
+	margin: 5px 5px 5px 5px;
+	border-style: dotted;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
 }
